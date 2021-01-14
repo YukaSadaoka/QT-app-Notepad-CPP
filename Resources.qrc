@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>icons/copy_modern.png</file>
+        <file>icons/create.png</file>
+        <file>icons/cut_modern.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/icons8-print-64.png</file>
+        <file>icons/open.png</file>
+        <file>icons/paste_modern.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/save.png</file>
+        <file>icons/undo.png</file>
+    </qresource>
+</RCC>
